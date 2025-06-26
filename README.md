@@ -1,10 +1,11 @@
-*Day 1:- Learn about C++ basics (Input/Output,Datatypes,Loops[Ifelse,While,For,doWhile],Functions,Arrays,Strings).
-*Day 1a:-Learn about Time complexity.
-*Day 2:-Learn about basics of patterns.
+# DSA Progress 🚀  
 
+This repository contains my daily progress as I learn DSA with C++ 
 
+## 📅 Progress Tracker  
+- **Day 1:** Learned about C++ basics (I/O,Datatypes,Loops,Functions,Arrays,Strings). Learned about Time complexity.
+- **Day 2:** Pattern Printing
 
+## 📚 Resources I'm Using  
 
-
-RESOURCES I a'm using
-Strivers A2Z DSA Course
+- [Strivers A2Z DSA Course](https://www.youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz)
